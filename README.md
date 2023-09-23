@@ -1,6 +1,6 @@
 # BinaryGenie
 
-![BinaryGenie Logo](![nav-logo](https://github.com/ganeshbistakaji/BinaryGenie/assets/117885646/f908b0d0-9bf3-41c2-a14b-e1fa4bc5c7ee)) <!-- Replace with your logo image link -->
+![BinaryGenie Logo]![nav-logo](https://github.com/ganeshbistakaji/BinaryGenie/assets/117885646/f908b0d0-9bf3-41c2-a14b-e1fa4bc5c7ee) <!-- Replace with your logo image link -->
 
 > **Educate, Elevate, Excel.**
 >
@@ -22,7 +22,7 @@ Welcome to BinaryGenie! We are on a mission to make programming accessible to ev
 
 Our tagline, "Educate, Elevate, Excel," embodies our commitment to providing high-quality programming education that empowers individuals to excel in the world of technology.
 
-![BinaryGenie Screenshot](![image](https://github.com/ganeshbistakaji/BinaryGenie/assets/117885646/b4364067-5d46-428b-85a6-9dcb19df6414)) <!-- Replace with a screenshot of your website -->
+![BinaryGenie Screenshot]![image](https://github.com/ganeshbistakaji/BinaryGenie/assets/117885646/b4364067-5d46-428b-85a6-9dcb19df6414) <!-- Replace with a screenshot of your website -->
 
 ## Features
 
