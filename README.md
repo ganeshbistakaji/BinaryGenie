@@ -34,11 +34,9 @@ Our tagline, "Educate, Elevate, Excel," embodies our commitment to providing hig
 
 ## Getting Started
 
-1. Visit [BinaryGenie](https://ganeshbistakaji.github.io/BinaryGenie/) to create your account.
+1. Visit [BinaryGenie](https://ganeshbistakaji.github.io/BinaryGenie/).
 2. Browse our course catalog and choose a topic that interests you.
 3. Start learning at your own pace with our interactive lessons.
-4. Engage with the community, ask questions, and share your knowledge.
-5. Keep track of your progress and earn certificates upon course completion.
 
 ## Courses
 
