@@ -47,7 +47,7 @@ Here are some of the popular courses available on BinaryGenie:
 - [Introduction to JavaScript](https://ganeshbistakaji.github.io/BinaryGenie/courses/javascript.html)
 - [Introduction to SASS](https://ganeshbistakaji.github.io/BinaryGenie/courses/sass.html)
 
-Explore our [full course list](courses-link) to discover more!
+Explore our [full course list](https://ganeshbistakaji.github.io/BinaryGenie/programming.html) to discover more!
 
 ## Contributing
 
