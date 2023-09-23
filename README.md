@@ -34,7 +34,7 @@ Our tagline, "Educate, Elevate, Excel," embodies our commitment to providing hig
 
 ## Getting Started
 
-1. Visit [BinaryGenie](https://www.binarygenie.com) to create your account.
+1. Visit [BinaryGenie](https://ganeshbistakaji.github.io/BinaryGenie/) to create your account.
 2. Browse our course catalog and choose a topic that interests you.
 3. Start learning at your own pace with our interactive lessons.
 4. Engage with the community, ask questions, and share your knowledge.
@@ -44,16 +44,16 @@ Our tagline, "Educate, Elevate, Excel," embodies our commitment to providing hig
 
 Here are some of the popular courses available on BinaryGenie:
 
-- [Introduction to Python](python-course-link)
-- [Web Development with HTML, CSS, and JavaScript](web-dev-course-link)
-- [Data Science with Python](data-science-course-link)
-- [Mobile App Development with React Native](react-native-course-link)
+- [Introduction to HTML](https://ganeshbistakaji.github.io/BinaryGenie/courses/html.html)
+- [Introduction to CSS](https://ganeshbistakaji.github.io/BinaryGenie/courses/css.html)
+- [Introduction to JavaScript](https://ganeshbistakaji.github.io/BinaryGenie/courses/javascript.html)
+- [Introduction to SASS](https://ganeshbistakaji.github.io/BinaryGenie/courses/sass.html)
 
 Explore our [full course list](courses-link) to discover more!
 
 ## Contributing
 
-We welcome contributions from the community to help improve BinaryGenie. Whether it's fixing a bug, adding new features, or creating new courses, your contributions are valuable. Check out our [Contribution Guidelines](contributing-link) to get started.
+We welcome contributions from the community to help improve BinaryGenie. Whether it's fixing a bug, adding new features, or creating new courses, your contributions are valuable.
 
 ## Feedback
 
@@ -67,4 +67,4 @@ All rights reserved. The code and content of BinaryGenie are protected by copyri
 
 Start your programming journey with BinaryGenie today and let's code our way to excellence together!
 
-[Visit BinaryGenie](https://www.binarygenie.com)
+[Visit BinaryGenie](https://ganeshbistakaji.github.io/BinaryGenie/index.html)
