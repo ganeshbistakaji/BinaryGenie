@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,600;0,6..12,700;0,6..12,800;0,6..12,900;0,6..12,1000;1,6..12,200;1,6..12,300;1,6..12,400;1,6..12,500;1,6..12,600;1,6..12,700;1,6..12,800;1,6..12,900;1,6..12,1000&display=swap");
+body {
+  font-family: "Nunito Sans", sans-serif;
+  background-color: white;
+}
+body .navbar {
+  background-color: transparent;
+}
+body .navbar .container .navbar-brand {
+  max-width: 50%;
+}
+body .navbar .container .collapse .navbar-nav .nav-item .active {
+  text-decoration: underline;
+}
+body .sec-1 {
+  margin-top: 150px;
+}
+body .sec-1 .row .colu #video-player {
+  width: 100%;
+  height: 400px;
+}
+body .sec-1 .row .colu .video_title {
+  font-weight: 900;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+body .sec-1 .row .colu .course {
+  border: 0px;
+  background-color: #3F51B5;
+  color: white;
+  margin-bottom: 20px;
+  transition: all 0.3s ease;
+}
+body .sec-1 .row .colu .donate {
+  border: 0px;
+  background-color: #E3E3E3;
+  color: #3F51B5;
+  margin-bottom: 20px;
+  transition: all 0.3s ease;
+}
+body .sec-1 .row .colu .course:hover {
+  background-color: rgba(63, 81, 181, 0.8);
+}
+body .sec-1 .row .colu .donate:hover {
+  background-color: rgba(227, 227, 227, 0.8);
+}
+@media only screen and (max-width: 425px) and (min-width: 374px) {
+  body .sec-1 .row .colu #video-player {
+    height: 250px;
+  }
+}
+@media only screen and (max-width: 375px) and (min-width: 321px) {
+  body .sec-1 .row .colu #video-player {
+    height: 200px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  body .sec-1 .row .colu #video-player {
+    height: 170px;
+  }
+}
+body .sec-1 .row .colu .box {
+  border: 0px solid black;
+  border-radius: 10px;
+  background-color: rgb(36, 36, 36);
+  height: 490px;
+  width: 100%;
+  overflow-y: scroll;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+body .sec-1 .row .colu .box ul {
+  list-style-type: none;
+}
+body .sec-1 .row .colu .box ul li {
+  border-radius: 10px;
+  border: 0px solid black;
+  background-color: black;
+  margin-right: 25px;
+  cursor: pointer;
+}
+body .sec-1 .row .colu .box ul li p {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: white;
+  font-weight: 700;
+}
+body .sec-1 .row .colu .box::-webkit-scrollbar {
+  width: 5px;
+  height: 100%;
+}
+body .sec-1 .row .colu .box::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.3);
+  -webkit-box-shadow: inset 0 0 6px rgb(228, 228, 228);
+}
+body .sec-1 .row .colu .box::-webkit-scrollbar-thumb:window-inactive {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+body .footer {
+  margin-top: 100px;
+  background-color: #E3E3E3;
+}
+body .footer .container .row {
+  display: flex;
+  align-items: center;
+}
+body .footer .container .row .colu {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: black;
+}
+body .footer .container .row .colu a {
+  color: black;
+  text-decoration: none;
+}/*# sourceMappingURL=courses.css.map */

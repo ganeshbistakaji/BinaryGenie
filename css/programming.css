@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,600;0,6..12,700;0,6..12,800;0,6..12,900;0,6..12,1000;1,6..12,200;1,6..12,300;1,6..12,400;1,6..12,500;1,6..12,600;1,6..12,700;1,6..12,800;1,6..12,900;1,6..12,1000&display=swap");
+body {
+  font-family: "Nunito Sans", sans-serif;
+  background-color: white;
+}
+body .navbar {
+  background-color: transparent;
+}
+body .navbar .container .navbar-brand {
+  max-width: 50%;
+}
+body .navbar .container .collapse .navbar-nav .nav-item .active {
+  text-decoration: underline;
+}
+body .sec-1 {
+  margin-top: 100px;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+}
+body .sec-1 .text {
+  font-weight: 900;
+}
+body .sec-1 .row .colu {
+  margin-top: 25px;
+}
+body .sec-1 .row .colu .box {
+  cursor: pointer;
+  max-width: 100%;
+  border-radius: 10px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(#fff, #fff);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: 0% 100%;
+  transition: background-size 0.5s, color 0.5s;
+}
+body .sec-1 .row .colu .box .h1 {
+  font-weight: 900;
+  color: white;
+}
+body .sec-1 .row .colu .html {
+  border: 2px solid #E54C21;
+  background-color: #E54C21;
+}
+body .sec-1 .row .colu .css {
+  border: 2px solid #214CE5;
+  background-color: #214CE5;
+}
+body .sec-1 .row .colu .javascript {
+  border: 2px solid #F7DF1E;
+  background-color: #F7DF1E;
+}
+body .sec-1 .row .colu .bootstrap {
+  border: 2px solid #6C07F4;
+  background-color: #6C07F4;
+}
+body .sec-1 .row .colu .jquery {
+  border: 2px solid #0868AC;
+  background-color: #0868AC;
+}
+body .sec-1 .row .colu .sass {
+  border: 2px solid #CD6799;
+  background-color: #CD6799;
+}
+body .sec-1 .row .colu .html:hover {
+  background-size: 100% 100%;
+}
+body .sec-1 .row .colu .html:hover .h1 {
+  color: #E54C21;
+}
+body .sec-1 .row .colu .css:hover {
+  background-size: 100% 100%;
+}
+body .sec-1 .row .colu .css:hover .h1 {
+  color: #214CE5;
+}
+body .sec-1 .row .colu .javascript:hover {
+  background-size: 100% 100%;
+}
+body .sec-1 .row .colu .javascript:hover .h1 {
+  color: #F7DF1E;
+}
+body .sec-1 .row .colu .bootstrap:hover {
+  background-size: 100% 100%;
+}
+body .sec-1 .row .colu .bootstrap:hover .h1 {
+  color: #6C07F4;
+}
+body .sec-1 .row .colu .jquery:hover {
+  background-size: 100% 100%;
+}
+body .sec-1 .row .colu .jquery:hover .h1 {
+  color: #0868AC;
+}
+body .sec-1 .row .colu .sass:hover {
+  background-size: 100% 100%;
+}
+body .sec-1 .row .colu .sass:hover .h1 {
+  color: #CD6799;
+}
+body .footer {
+  margin-top: 130px;
+  background-color: #E3E3E3;
+}
+body .footer .container .row {
+  display: flex;
+  align-items: center;
+}
+body .footer .container .row .colu {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: black;
+}
+body .footer .container .row .colu a {
+  color: black;
+  text-decoration: none;
+}/*# sourceMappingURL=programming.css.map */
