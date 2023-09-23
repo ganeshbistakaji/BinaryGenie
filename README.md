@@ -27,9 +27,8 @@ Our tagline, "Educate, Elevate, Excel," embodies our commitment to providing hig
 ## Features
 
 - **Comprehensive Courses:** Explore a wide range of programming languages and technologies through our well-structured courses.
-- **Interactive Learning:** Hands-on coding exercises and projects to reinforce your knowledge.
-- **Community Support:** Connect with fellow learners, ask questions, and collaborate on projects.
-- **Progress Tracking:** Monitor your learning journey and track your achievements.
+- **Interactive Learning:** Hands-on coding exercises and projects to reinforce your knowledge. (Soon)
+- **Privacy:** We neither reqiure you to create an account nor collect cookies.
 - **Up-to-Date Content:** Stay current with the latest industry trends and updates.
 - **Accessible Anywhere:** Learn at your own pace, on any device with internet access.
 
@@ -58,7 +57,7 @@ We welcome contributions from the community to help improve BinaryGenie. Whether
 
 ## Feedback
 
-We value your feedback! If you have any suggestions, encounter issues, or just want to say hello, please don't hesitate to [contact us](mailto:feedback@binarygenie.com).
+We value your feedback! If you have any suggestions, encounter issues, or just want to say hello, please don't hesitate to [contact us](mailto:ganeshbistakaji@gmail.com).
 
 ## License
 
